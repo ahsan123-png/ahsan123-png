@@ -7,7 +7,7 @@
 - [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/ahxan.asho12)
 - [Skype](https://join.skype.com/invite/live:.cid.99f5e0d393316030)
 - [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=Discord&logoColor=white)](https://discordapp.com/users/1131112861037498429)
--[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ahsan-masood-6a4957226?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ahsan-masood-6a4957226?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
 <!---
