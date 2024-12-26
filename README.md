@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ahsan123-png
+- 👋 Hi, I’m Ahsan Masood
 - 👀 I’m interested in ... django, Data Science , Machine Learnng , Python
 - 🌱 I’m currently learning ... Data Science , Machine Learning
 - 💞️ I’m looking to collaborate on ... Django web Development projects
