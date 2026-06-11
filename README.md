@@ -1,9 +1,12 @@
-- 👋 Hi, I’m Ahsan Masood
-- 👀 I’m interested in ... django, Data Science , Machine Learnng , Python
-- 🌱 I’m currently learning ... Data Science , Machine Learning
-- 💞️ I’m looking to collaborate on ... Django web Development projects
-- 📫 How to reach me ... 
-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/asho.ahxan?igshid=MzMyNGUyNmU2YQ==)
-- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/ahxan.asho12)
-- [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=Discord&logoColor=white)](https://discordapp.com/users/1131112861037498429)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ahsan-masood-6a4957226?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+# Hi, I’m Ahsan Masood  
+
+- Interests: Django, Data Science, Machine Learning, Python  
+- Currently Learning: Advanced Data Science and Machine Learning  
+- Open to Collaborate On: Django web development projects  
+- Portfolio: [www.ahsanmasood.site](http://www.ahsanmasood.site)  
+- Reach Me At:  
+
+[Instagram](https://instagram.com/asho.ahxan?igshid=MzMyNGUyNmU2YQ==)  
+[Facebook](https://facebook.com/ahxan.asho12)  
+[Discord](https://discordapp.com/users/1131112861037498429)  
+[LinkedIn](https://www.linkedin.com/in/ahsan-masood-6a4957226?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
