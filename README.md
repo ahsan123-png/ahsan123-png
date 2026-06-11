@@ -6,7 +6,6 @@
 - Portfolio: [www.ahsanmasood.site](http://www.ahsanmasood.site)  
 - Reach Me At:  
 
-[Instagram](https://instagram.com/asho.ahxan?igshid=MzMyNGUyNmU2YQ==)  
-[Facebook](https://facebook.com/ahxan.asho12)  
-[Discord](https://discordapp.com/users/1131112861037498429)  
-[LinkedIn](https://www.linkedin.com/in/ahsan-masood-6a4957226?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/asho.ahxan?igshid=MzMyNGUyNmU2YQ==)  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/ahxan.asho12)  
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo
